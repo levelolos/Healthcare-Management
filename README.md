@@ -198,4 +198,4 @@ This module allows admin to perform five major operations:
 
 
 
-# Made by Aryan Dinodia.
+# Made by Dhruv Goyal.
